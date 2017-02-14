@@ -1,0 +1,10 @@
+5100ba2a-78d4-452d-8129-d3933a63a5f9\:credentialProfileName=default
+771ae1ba-5fa1-4c09-9d76-07353467c02a\:credentialProfileName=shwetali
+cognitoIdentityId=us-east-1\:ca768a1d-e767-4843-a19d-8b25d8c56ddb
+cognitoIdentityPoolId=us-east-1\:d4fdc07f-94fd-4cc6-94fb-f903657f05c1
+credentialProfileAccountIds=771ae1ba-5fa1-4c09-9d76-07353467c02a|5100ba2a-78d4-452d-8129-d3933a63a5f9
+currentAccount=5100ba2a-78d4-452d-8129-d3933a63a5f9
+currentDefaultAccount=
+ec2PreferencesImported=true
+eclipse.preferences.version=1
+mobileAnalyticsClientId=8b537b4a-97a4-4bd7-8d1d-9cf400aa7e5e

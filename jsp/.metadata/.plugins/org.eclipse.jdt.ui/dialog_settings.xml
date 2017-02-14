@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="/home/bridgeit/Alkesh/apache-tomcat-7.0.72/lib" key="org.eclipse.jdt.ui.lastextjar"/>
+	<section name="ClasspathContainerSelectionPage">
+		<item value="0" key="index"/>
+	</section>
+	<section name="BuildPathsPropertyPage">
+		<item value="2" key="pageIndex"/>
+	</section>
+	<section name="JavaElementSearchActions">
+	</section>
+</section>
